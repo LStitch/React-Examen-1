@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Examen-1/static/css/main.5739ad41.chunk.css",
+    "main.js": "/React-Examen-1/static/js/main.9a919dae.chunk.js",
+    "main.js.map": "/React-Examen-1/static/js/main.9a919dae.chunk.js.map",
+    "runtime-main.js": "/React-Examen-1/static/js/runtime-main.c611a0f7.js",
+    "runtime-main.js.map": "/React-Examen-1/static/js/runtime-main.c611a0f7.js.map",
+    "static/js/2.5b941715.chunk.js": "/React-Examen-1/static/js/2.5b941715.chunk.js",
+    "static/js/2.5b941715.chunk.js.map": "/React-Examen-1/static/js/2.5b941715.chunk.js.map",
+    "static/js/3.44e254d3.chunk.js": "/React-Examen-1/static/js/3.44e254d3.chunk.js",
+    "static/js/3.44e254d3.chunk.js.map": "/React-Examen-1/static/js/3.44e254d3.chunk.js.map",
+    "index.html": "/React-Examen-1/index.html",
+    "static/css/main.5739ad41.chunk.css.map": "/React-Examen-1/static/css/main.5739ad41.chunk.css.map",
+    "static/js/2.5b941715.chunk.js.LICENSE.txt": "/React-Examen-1/static/js/2.5b941715.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-Examen-1/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c611a0f7.js",
+    "static/js/2.5b941715.chunk.js",
+    "static/css/main.5739ad41.chunk.css",
+    "static/js/main.9a919dae.chunk.js"
+  ]
+}
